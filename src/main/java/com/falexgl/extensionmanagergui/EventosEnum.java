@@ -1,0 +1,7 @@
+/**
+ *
+ * @author falexgl
+ */
+public enum EventosEnum {
+    APERTURA_APP, ERROR_IO, ARCHIVO_EXISTENTE, MODIFICACION_EXTENSION, SUSTITUCION_EXTENSION, CIERRE_APP
+}
